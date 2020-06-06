@@ -1,0 +1,6 @@
+com\memorynotfound\integration\ActiveMQConfig.class
+com\memorynotfound\integration\Run.class
+com\memorynotfound\integration\OrderConsumer.class
+com\memorynotfound\integration\OrderSender.class
+com\memorynotfound\integration\Order.class
+com\memorynotfound\integration\Run$PubsubOutboundGateway.class
